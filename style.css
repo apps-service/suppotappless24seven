@@ -15,6 +15,7 @@ a:hover{
 .note{
     font-size: 18px;
     font-weight: 600;
+    color: #4F67B8;
 }
 .logo img{
     width: 250px;
@@ -25,6 +26,20 @@ h1{
     font-weight: 600;
     font-family:  sans-serif;
     margin-bottom: 30px;
+    color: #4F67B8;
+}
+.content{
+    text-align: center;
+}
+h3{
+   
+    font-weight: 600;
+    font-family:  sans-serif;
+    margin-bottom: 30px;
+    color: #4F67B8;
+}
+#logo{
+    background-color: #fff !important;
 }
 .content a{
     margin-top: 50px;
@@ -33,7 +48,7 @@ h1{
 .btn{
     
     font-size: 30px;
-    background-color: #000;
+    background-color: #204C9B;
     color: #fff;
     padding: 10px 20px;
     border-radius: 20px;
@@ -42,21 +57,21 @@ h1{
 a:focus{
     border: none !important;
 }
-h3{
-    font-size: 35px;
-    font-weight: 600;
+h4{
+    
+    font-weight: 400;
     font-family:  sans-serif;
+    color: #4F67B8;
 }
-section{
- 
-    background-image: linear-gradient(to top, #fff, #0f93ff61);
+#sec{
+    background-color: #F3F4FF;
 }
 #logo{
     margin-top: 0px;
 }
 .fixed-btn{
     text-align: center;
-    background-color: #000;
+    background-color: #204C9B;
     width: 100%;
     bottom: 0;
     left: 0;
